@@ -16,7 +16,7 @@ const CONFIG = {
      href: "https://github.com/morethanmin/morethan-log",
    },
    ],
-   blog setting (required)
+  // blog setting (required)
   blog: {
     title: "dev.seoyoung",
     description: "welcome to dev.seoyoung!",
